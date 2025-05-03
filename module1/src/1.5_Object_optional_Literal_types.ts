@@ -1,5 +1,5 @@
 //Object types
-
+{
 const user : {
     address: 'shekhertek 2'; //--------> Literal Types
     firstNmae: string;
@@ -10,4 +10,5 @@ const user : {
     firstNmae: 'Mushfiqur',
     middleName: "Rahman",
     lastName:'Badhon',
+}
 }

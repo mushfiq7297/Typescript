@@ -1,5 +1,5 @@
 //Basic Data Type
-
+{
 //String
 let FirstNamr:string = "Mushfiq"
 
@@ -17,3 +17,5 @@ friends.push('robin')
 //array--> tuple--> order--> types of values
 
 let ageName : [number,string] = [22,'mr.x']
+
+}
